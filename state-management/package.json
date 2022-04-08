@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "build": "webpack --mode production"
+  },
+  "dependencies": {
+    "react-icons": "^4.3.1"
+  }
+}
